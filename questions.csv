@@ -1,0 +1,14 @@
+questionTag,hasTarget,dir,questionText,likertLow,likertMax,questionColour
+similarity-1,true,sounds/similarity-1,Listen to the target loop then listen to the others and answer the questions.,Disagree,Agree,green
+similarity-2,true,sounds/similarity-2,Listen to the target loop then listen to the others and answer the questions.,Disagree,Agree,green
+similarity-3,true,sounds/similarity-3,Listen to the target loop then listen to the others and answer the questions.,Disagree,Agree,green
+similarity-4,true,sounds/similarity-4,Listen to the target loop then listen to the others and answer the questions.,Disagree,Agree,green
+similarity-5,true,sounds/similarity-5,Listen to the target loop then listen to the others and answer the questions.,Disagree,Agree,green
+similarity-6,true,sounds/similarity-6,Listen to the target loop then listen to the others and answer the questions.,Disagree,Agree,green
+similarity-7,true,sounds/similarity-7,Listen to the target loop then listen to the others and answer the questions.,Disagree,Agree,green
+similarity-8,true,sounds/similarity-8,Listen to the target loop then listen to the others and answer the questions.,Disagree,Agree,green
+similarity-9,true,sounds/similarity-9,Listen to the target loop then listen to the others and answer the questions.,Disagree,Agree,green
+similarity-10,true,sounds/similarity-10,Listen to the target loop then listen to the others and answer the questions.,Disagree,Agree,green
+similarity-11,true,sounds/similarity-11,Listen to the target loop then listen to the others and answer the questions.,Disagree,Agree,green
+similarity-12,true,sounds/similarity-12,Listen to the target loop then listen to the others and answer the questions.,Disagree,Agree,green
+similarity-13,true,sounds/similarity-13,Listen to the target loop then listen to the others and answer the questions.,Disagree,Agree,green

@@ -1,0 +1,16 @@
+.likertTable { 
+	text-align:center;
+	table-layout:fixed;
+}
+.likertTable td { overflow: hidden; }
+
+body {
+	font-family:helvetica, sans-serif;
+	font-size:15px;
+	color:#444444;
+}
+
+li {
+	margin-top:10px;
+	margin-bottom:10px;	
+}
